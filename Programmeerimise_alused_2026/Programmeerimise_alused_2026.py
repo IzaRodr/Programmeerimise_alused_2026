@@ -21,10 +21,10 @@ a = int(input("Esimene arv: "))
 b = int(input("Teine arv: "))
 print(a + b)
 #Põhioperatsioonid: + - * / // % **
-# astendamine	**	
+# astendamine	**	(stepeni)
 # korrutamine	*	
 # jagamine	/	
-# jagamise täisarvuline osa	//	
+# jagamise täisarvuline osa	//	(ostatok tsisla syeden)
 # jagamisjääk	%	
 # liitmine	+	
 # lahutamine	-	
